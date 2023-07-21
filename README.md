@@ -1,5 +1,5 @@
 # iGG-Menu-JIT-Rootless
-iGG-Menu-JIT-Rootless is a template menu for iOS that supported patching offsets/hexes for Non-jailbreak with JIT and fix patch for Dopamine jailbreak using IMGUI, also working with other jailbreak!
+iGG-Menu-JIT-Rootless is a template menu for iOS that supported patching offsets/hexes for Non-jailbreak with JIT and fix patch for Dopamine jailbreak using IGG, also working with other jailbreak!
 
 <div style="text-align: center;">
 <b>IMGUI Template Preview</b><br>
