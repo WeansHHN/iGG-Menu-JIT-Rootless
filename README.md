@@ -4,7 +4,7 @@ iGG-Menu-JIT-Rootless is a template menu for iOS that supported patching offsets
 <div style="text-align: center;">
 <b>IMGUI Template Preview</b><br>
 
-<img src="https://raw.githubusercontent.com/WeansHHN/main/iGG-Menu-JIT-Rootless/Preview.PNG">
+<img src="https://raw.githubusercontent.com/WeansHHN/iGG-Menu-JIT-Rootless/main/Preview.PNG">
 </div>
 
 
