@@ -21,7 +21,7 @@ lqmhhn_CFLAGS = -fobjc-arc -Wno-deprecated-declarations -Wno-unused-variable -Wn
 lqmhhn_EXTRA_FRAMEWORKS += 
 lqmhhn_CCFLAGS = -std=c++11 -fno-rtti -fno-exceptions -DNDEBUG
 lqmhhn_CFLAGS = -fobjc-arc -Wno-deprecated-declarations -Wno-unused-variable -Wno-unused-value
-lqmhhn_FILES = IGGMain.mm $(wildcard SCLAlertView/*.m) $(wildcard SupportFile/*.m) 
+lqmhhn_FILES = IGGMain.mm $(wildcard SupportFile/*.m) 
 
 
 include $(THEOS_MAKE_PATH)/tweak.mk
