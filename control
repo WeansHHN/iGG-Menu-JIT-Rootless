@@ -1,0 +1,12 @@
+Package: com.hhnios.lienquan
+Name: Liên Quân Mod Menu
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Liên Quân Mod Menu by HHNiOS!
+Maintainer: HHNiOS
+Author: HHNiOS
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+Section: Liên Quân
+Homepage: https://hhnios.github.io
+Version: 0.1.0
+
