@@ -12,6 +12,7 @@
 #import "SupportFile/NakanoMiku.h"
 #import "SupportFile/NakanoYotsuba.h"
 #import "SupportFile/NakanoItsuki.h"
+#import "SupportFile/dobby.h"
 
 
 @interface IGGView()
