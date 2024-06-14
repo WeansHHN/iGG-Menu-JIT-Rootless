@@ -12,7 +12,7 @@ iGG-Menu-JIT-Rootless is a template menu for iOS that supported patching offsets
 - I'm using vm_writeData.h to patch the offsets/hexes
 - Kopycat some code from [joeyjurjens](https://github.com/joeyjurjens/iOS-Mod-Menu-Template-for-Theos)
 - Also bring encryption from joeyjurjens template too
-- Fans of Attack ON Titan=))) 
+- Miku Nakano in the Best<3
 
 # Installation
 - Using theos for compilation
